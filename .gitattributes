@@ -1,1 +1,4 @@
 *.PAS linguist-language=Pascal
+*.RMP linguist-detectable=false
+*.ROB linguist-detectable=false
+*.RSC linguist-detectable=false
